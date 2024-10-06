@@ -1,4 +1,10 @@
 # Analyize_AbsenteeismData
+Proplem : Addresses the  absenteeism at acompany during workingtime and analyzing the data 
+Goal :
+1-cleaning the data and analyzing it usiing Pandas , and numpy package to help the business people figure out how to preserve high productivity rates
+2-providing intuition on the reasons for employees exceesive absence 
+3 -Making sure that the raw dataset has been turned into meaningful quantitative information.
+
 
 ## Dataset
 the dataset is based on the dataset of an already existing study about the prediction of absenteeism at work 
