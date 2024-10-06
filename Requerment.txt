@@ -1,0 +1,4 @@
+Python
+pandas package 
+numpy package 
+Jypter notebook or any suitable editor 
