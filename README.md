@@ -21,6 +21,7 @@ the dataset is based on the dataset of an already existing study about the predi
 ## key Features 
 Data cleaning  :  trying to cleaning the data using pandas ,
 avoiding mistakes , handling missing informtion(missing values) and dealing and handling incomperhesive organization simply (bad data)
+Adding new columns to help in analysis wiht crucial details .
 
 ## Installation
 Clone the repository:
@@ -37,6 +38,9 @@ jupyter notebook
 Run the preprocessing scripts in the src/ folder to clean and prepare the dataset.
 Open the Jupyter notebooks in the notebooks/ folder for detailed analysis.
 You can modify the dataset or analysis methods as needed based on your own objectives.
+
+##Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request with detailed changes.
 
 ## link of the project 
 https://colab.research.google.com/drive/1Y4PLBn1r8PgnTa38edHCnVIVAGSSzNeW
